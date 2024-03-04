@@ -1,3 +1,5 @@
+//Currying  sum(1)(2)(3)(4)...(n)()
+
 let total =0;
 
 function sum(num1){
